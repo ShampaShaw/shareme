@@ -11,8 +11,7 @@ export default {
         {
             name: 'comment',
             title: 'Comment',
-            type: 'array',
-            of: [{ type: 'comment' }]
+            type: 'string'
             
         }
     ]
